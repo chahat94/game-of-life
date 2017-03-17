@@ -10,4 +10,8 @@
   <version>3.1.2</version>
     <packaging>jar</packaging>
     <name>gameoflife-build</name>
+
+  <scm>
+    <tag>gameoflife-2.0.4</tag>
+  </scm>
 </project>

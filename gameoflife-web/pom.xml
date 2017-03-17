@@ -175,4 +175,8 @@
         </dependency>
 
     </dependencies>
+
+  <scm>
+    <tag>gameoflife-2.0.4</tag>
+  </scm>
 </project>

@@ -4,11 +4,11 @@
     <parent>
         <artifactId>gameoflife</artifactId>
         <groupId>com.wakaleo.gameoflife</groupId>
-        <version>2.0.4</version>
+        <version>2.0.5-SNAPSHOT</version>
     </parent>
     <groupId>com.wakaleo.gameoflife</groupId>
     <artifactId>gameoflife-web</artifactId>
-  <version>1.0.4</version>
+  <version>1.0.5-SNAPSHOT</version>
     <packaging>war</packaging>
     <name>gameoflife-web</name>
 
@@ -120,7 +120,7 @@
         <dependency>
             <groupId>com.wakaleo.gameoflife</groupId>
             <artifactId>gameoflife-core</artifactId>
-            <version>1.4.5</version>
+            <version>1.4.6-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>org.springframework</groupId>
@@ -175,8 +175,4 @@
         </dependency>
 
     </dependencies>
-
-  <scm>
-    <tag>gameoflife-2.0.4</tag>
-  </scm>
 </project>
